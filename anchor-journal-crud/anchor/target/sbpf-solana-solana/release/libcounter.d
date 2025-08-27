@@ -1,0 +1,1 @@
+/mnt/c/Users/sonal/OneDrive/Desktop/smart-contract/anchor-journal-crud/anchor/target/sbpf-solana-solana/release/libcounter.rlib: /mnt/c/Users/sonal/OneDrive/Desktop/smart-contract/anchor-journal-crud/anchor/programs/cred-program/src/lib.rs
