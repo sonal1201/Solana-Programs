@@ -18,7 +18,8 @@ pub mod program {
     pub fn process_initialize_config(ctx: Context<InitializeConfig>) -> Result<()> {
         process_initialize_config(ctx);
     }
-}
 
-#[derive(Accounts)]
-pub struct Initialize {}
+    pub fn update_config(ctx: Context<UpdateConfig>)-> Result<()> {
+        update_config(ctx);
+    }
+}
